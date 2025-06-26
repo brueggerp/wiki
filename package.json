@@ -327,7 +327,7 @@
     "webpack-dev-middleware": "^5.3.4",
     "webpack-hot-middleware": "^2.25.4",
     "webpack-merge": "^5.10.0",
-    "webpack-modernizr-loader": "^5.0.0",  // bleibt gleich, wenn kompatibel
+    "webpack-modernizr-loader": "^5.0.0",
     "webpack-subresource-integrity": "^5.0.0",
     "webpackbar": "^5.0.0"
     "whatwg-fetch": "3.6.2",
